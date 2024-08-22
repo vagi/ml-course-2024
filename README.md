@@ -3,3 +3,5 @@
 This is my continuing education in 2024.
 
 The Repository consists of my homework completed during the Course.
+
+1. [Numpy](hw_02_numpy.ipynb)
